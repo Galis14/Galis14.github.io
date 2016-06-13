@@ -1,0 +1,6 @@
+name: Command Line
+markdown: kramdown
+collections:
+  man_pages:
+    output: true
+    permalink: /man_pages/:path/
