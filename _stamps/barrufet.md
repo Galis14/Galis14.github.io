@@ -4,6 +4,6 @@ description: "The Barrufet postage stamp"
 layout: stamps
 ---
 
-# Barrufet postage stamp
+# Barrufet's postage stamp
 
 ![_config.yml](/images/barrufet.png)
