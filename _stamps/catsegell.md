@@ -4,6 +4,6 @@ description: "The Catalunya postage stamp"
 layout: stamps
 ---
 
-# Catalunya postage stamp
+# Catalunya's postage stamp
 
 ![_config.yml](/images/catsegell.jpg)
