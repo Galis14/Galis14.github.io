@@ -1,5 +1,5 @@
-# Ruxo8.github.io
-Web creada per al examen del dia 21/04/2016
+# Galis14.github.io
+Web creada per al examen del dia 13/06/2016
 
-* **Nom:** Sergi Ruiz Carrasco
-* **isx48031044**
+* **Nom:** David Rico Alcantara
+* **isx41008364**
