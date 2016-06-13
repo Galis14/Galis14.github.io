@@ -1,6 +1,6 @@
 name: Command Line
 markdown: kramdown
 collections:
-  man_pages:
+  stamps:
     output: true
-    permalink: /man_pages/:path/
+    permalink: /stamps/:path/
