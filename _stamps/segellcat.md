@@ -3,5 +3,4 @@ title: "CAT STAMP"
 description: "The Catalunya postage stamp"
 layout: stamps
 ---
-
-/images/catsegell.jpg
+![My helpful screenshot]({{ site.url }}/images/catsegell.jpg)
