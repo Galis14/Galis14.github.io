@@ -6,4 +6,4 @@ layout: stamps
 
 Segell de Catalunya
 
-![_config.yml]({{ site.url }}/images/catsegell.jpg)
+![_config.yml](/images/catsegell.jpg)
